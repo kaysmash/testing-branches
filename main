@@ -1,0 +1,5 @@
+let isTestingBranching = true;
+console.log("This is the main branch.");
+
+let thisIsMainBranch = "This is the main branch.";
+console.log(thisIsMainBranch); // This is the main branch.
